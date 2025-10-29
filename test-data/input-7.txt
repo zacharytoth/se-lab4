@@ -1,0 +1,3 @@
+# Create a ship with 1 torpedo stores that never fail
+GT4500,1,1,1,0
+TORPEDO,ALL # primary fails, but secondary works -> true
